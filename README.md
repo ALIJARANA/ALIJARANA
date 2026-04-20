@@ -1,5 +1,5 @@
 # 🪐 About Me:
-<br><br>- 🎓 BCA student from Nepal with a passion for technology and innovation  <br>- 💻 Interested in web development, software projects, and creative ideas  <br>- 💡 Creating modern, responsive, and user-friendly digital experiences through code  <br>- 🌱 Continuously learning new technologies and improving development skills  
+- 🎓 BCA student from Nepal with a passion for technology and innovation  <br>- 💻 Interested in web development, software projects, and creative ideas  <br>- 💡 Creating modern, responsive, and user-friendly digital experiences through code  <br>- 🌱 Continuously learning new technologies and improving development skills  
 
 
 ## 🌐 Socials:

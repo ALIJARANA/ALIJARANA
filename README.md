@@ -1,6 +1,9 @@
 # 🪐 About Me:
-- 🎓 BCA student from Nepal with a passion for technology and innovation  <br>- 💻 Interested in web development, software projects, and creative ideas  <br>- 💡 Creating modern, responsive, and user-friendly digital experiences through code  <br>- 🌱 Continuously learning new technologies and improving development skills  
 
+- 🎓 BCA student from Nepal with a passion for technology and innovation  
+- 💻 Interested in web development, software projects, and creative ideas  
+- 💡 Creating modern, responsive, and user-friendly digital experiences through code  
+- 🌱 Continuously learning new technologies and improving development skills  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ealiza.rana.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alija0101) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alijarana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alija.rana180901@gmail.com) 
